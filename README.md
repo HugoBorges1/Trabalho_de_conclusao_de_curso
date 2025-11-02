@@ -1,4 +1,5 @@
-<h1 align="center">Análise Formal de Gameplay Utilizando Redes de Petri Coloridas</h1>
+<h1 align="center">Análise Formal de Gameplay Utilizando</h1>
+<h1 align="center">Redes de Petri Coloridas</h1>
 
 > Este repositório é dedicado ao armazenamento dos arquivos e mídias do meu Trabalho de Conclusão de Curso.
 
@@ -6,7 +7,7 @@
     <img src="/mídias/gifs_cenas/connor_dbh.gif" width="600">
 </p>
 
-<h2 align="center">💡 Sobre o Projeto</h2>
+<h2 align="left">💡 Sobre o Projeto</h2>
 
 Meu trabalho apresenta uma metodologia para a **especificação, modelagem e análise formal de vídeo-games utilizando Redes de Petri**.
 
@@ -14,7 +15,7 @@ O objetivo é criar modelos formais que permitam a verificação de propriedades
 
 Um estudo de caso foi relizado no jogo Detroit: Become Human. Realizando um processo de modelagem e análise sobre o primeiro capítulo do jogo "The Hostage".
 
-<h2 align="center">🚀 Links Principais</h2>
+<h2 align="left">🚀 Links Principais</h2>
 
 Acesse os artefatos do projeto nos links abaixo.
 
@@ -44,7 +45,7 @@ Acesse os artefatos do projeto nos links abaixo.
     </td>
   </tr>
 </table>
-<h2 align="center">📁 Estrutura do Repositório</h2>
+<h2 align="left">📁 Estrutura do Repositório</h2>
 
 Para facilitar a navegação, o repositório está organizado da seguinte forma:
 
@@ -53,11 +54,11 @@ Para facilitar a navegação, o repositório está organizado da seguinte forma:
 * **/Modelos**: Contém os arquivos dos modelos de Redes de Petri.
 * **/Simulação de jogo hipotético**: Contém a animação da simulação de jogo hipotético.
 
-<h2 align="center">👨‍💻 Autor</h2>
+<h2 align="left">👨‍💻 Autor</h2>
 
 * **[Hugo Gabriel Batista Borges]** - [hugo.borges@discente.ufj.edu.br](mailto:hugo.borges@discente.ufj.edu.br)
 
-<h2 align="center">👩‍🏫 Orientadora</h2>
+<h2 align="left">👩‍🏫 Orientadora</h2>
 
 * **[Franciny Medeiros Barreto]** - [franciny@ufj.edu.br](mailto:franciny@ufj.edu.br)
 ---
