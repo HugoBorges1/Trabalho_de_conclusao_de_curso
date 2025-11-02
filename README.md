@@ -30,6 +30,10 @@ Acesse os artefatos do projeto nos links abaixo.
   <a href="/Cenas de jogo/">
     <img src="https://img.shields.io/badge/Cenas%20do%20Jogo-GIF-purple?style=for-the-badge&logo=giphy" alt="Cenas do jogo">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="/Simulação de jogo hipotético/">
+    <img src="https://img.shields.io/badge/Simulação%20passo%20a%20passo-GIF-green?style=for-the-badge&logo=giphy" alt="Simulação de modelo">
+  </a>
 </p>
 
 ## 📁 Estrutura do Repositório
@@ -39,6 +43,7 @@ Para facilitar a navegação, o repositório está organizado da seguinte forma:
 * **/Cenas de jogo**: Contém a referência das cenas de Detroit: Become Human apresentadas no trabalho.
 * **/Documentos**: Contém o PDF do trabalho e os relatórios de análise dos modelo.
 * **/Modelos**: Contém os arquivos dos modelos de Redes de Petri.
+* **/Simulação de jogo hipotético**: Contém a animação da simulação de jogo hipotético.
 
 ## 👨‍💻 Autor
 
