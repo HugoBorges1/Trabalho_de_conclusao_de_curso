@@ -34,12 +34,12 @@ Acesse os artefatos do projeto nos links abaixo.
   </tr>
   <tr>
     <td align="center" style="border: none;">
-      <a href="/Cenas%20de%20jogo/">
+      <a href="/Cenas do jogo/">
         Cenas do jogo
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="/Simula%C3%A7%C3%A3o%20de%20jogo%20hipot%C3%A9tico/">
+      <a href="/Simulação de jogo hipotético/">
         Simulação passo a passo
       </a>
     </td>
