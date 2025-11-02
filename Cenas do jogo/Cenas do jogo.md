@@ -29,7 +29,7 @@
       <td align="left" valign="middle">Figura 42 – Cena do jogo que representa o disparo das transições Go outside, Confront deviant outside, Say deviant’s name e Negotiate with deviant.</td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><a href="">Cena 6</a></td>
+      <td align="center" valign="middle"><a href="../Cenas do jogo/cena_6.md">Cena 6</a></td>
       <td align="left" valign="middle">Figura 44 – Cena do jogo que representa o disparo das transições Reassure Daniel, Be honest about gun e Leave wounded cop.</td>
     </tr>
     <tr>
