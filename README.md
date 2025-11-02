@@ -20,31 +20,32 @@ Um estudo de caso foi relizado no jogo Detroit: Become Human. Realizando um proc
 Acesse os artefatos do projeto nos links abaixo.
 
 <table align="center" style="border: none; border-collapse: collapse;" cellpadding="0" cellspacing="10">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="/Documentos/monografia.pdf">
-        <img src="https://img.shields.io/badge/Trabalho%20Completo-PDF-red?style=for-the-badge&logo=read-the-docs" alt="Trabalho Completo">
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="/Modelos/">
-        <img src="https://img.shields.io/badge/Modelos%20em%20RPC-CPN-blue?style=for-the-badge&logo=github-actions" alt="Modelos em RPC">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="/Cenas%20de%20jogo/">
-        <img src="https://img.shields.io/badge/Cenas%20do%20Jogo-GIF-purple?style=for-the-badge&logo=giphy" alt="Cenas do jogo">
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="/Simula%C3%A7%C3%A3o%20de%20jogo%20hipot%C3%A9tico/">
-        <img src="https://img.shields.io/badge/Simula%C3%A7%C3%A3o%20passo%20a%20passo-GIF-green?style=for-the-badge&logo=giphy" alt="Simulação de modelo">
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="/Documentos/monografia.pdf">
+        Trabalho Completo
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="/Modelos/">
+        Modelos em RPC
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="/Cenas%20de%20jogo/">
+        Cenas do jogo
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="/Simula%C3%A7%C3%A3o%20de%20jogo%20hipot%C3%A9tico/">
+        Simulação passo a passo
+      </a>
+    </td>
+  </tr>
 </table>
+
 <h2 align="left">📁 Estrutura do Repositório</h2>
 
 Para facilitar a navegação, o repositório está organizado da seguinte forma:
